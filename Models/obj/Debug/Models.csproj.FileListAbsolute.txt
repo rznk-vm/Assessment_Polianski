@@ -1,0 +1,9 @@
+C:\!Projects\Polianski\Assessment_Polianski\Models\bin\Debug\Models.dll
+C:\!Projects\Polianski\Assessment_Polianski\Models\bin\Debug\Models.pdb
+C:\!Projects\Polianski\Assessment_Polianski\Models\bin\Debug\GlobalModule.dll
+C:\!Projects\Polianski\Assessment_Polianski\Models\bin\Debug\GlobalModule.pdb
+C:\!Projects\Polianski\Assessment_Polianski\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\!Projects\Polianski\Assessment_Polianski\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\!Projects\Polianski\Assessment_Polianski\Models\obj\Debug\Models.csproj.CopyComplete
+C:\!Projects\Polianski\Assessment_Polianski\Models\obj\Debug\Models.dll
+C:\!Projects\Polianski\Assessment_Polianski\Models\obj\Debug\Models.pdb

@@ -1,0 +1,6 @@
+C:\!Projects\Polianski\Assessment_Polianski\GlobalModule\bin\Debug\GlobalModule.dll
+C:\!Projects\Polianski\Assessment_Polianski\GlobalModule\bin\Debug\GlobalModule.pdb
+C:\!Projects\Polianski\Assessment_Polianski\GlobalModule\obj\Debug\GlobalModule.csproj.AssemblyReference.cache
+C:\!Projects\Polianski\Assessment_Polianski\GlobalModule\obj\Debug\GlobalModule.csproj.CoreCompileInputs.cache
+C:\!Projects\Polianski\Assessment_Polianski\GlobalModule\obj\Debug\GlobalModule.dll
+C:\!Projects\Polianski\Assessment_Polianski\GlobalModule\obj\Debug\GlobalModule.pdb

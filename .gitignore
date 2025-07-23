@@ -1,0 +1,15 @@
+# Игнорировать бинарные файлы
+*.exe
+*.dll
+*.pdb
+
+# Игнорировать временные файлы
+*.obj
+*.sdf
+*.suo
+.vs/
+
+# Игнорировать файлы настроек пользователя
+*.user
+*.csproj.user
+.vs/config/applicationhost.config
